@@ -1,5 +1,6 @@
 **1. EventStorming Modeling**
 ---
+- 부분적으로만 구현하였습니다.
 ![image](https://github.com/Old-Temple/assignment_fooddelivery/assets/78444302/da762dea-853c-424e-a615-060220900785)
 ---
 
